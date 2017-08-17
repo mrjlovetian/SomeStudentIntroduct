@@ -28,5 +28,12 @@
 
 ## [壁纸网站](https://wall.alphacoders.com/)
 
+## [除去项目中未被使用到的图片资源](https://github.com/tinymind/LSUnusedResources/)
+
+## [除去项目中未被使用的类文件](https://github.com/CatchZeng/CATClearProjectTool)
+
+## 逆向编码使用的第三方工具
+#### Hopper Disassembler v3解析app中可执行文件成伪代码 \n class-dump 查出app中的.h文件，和未被声明的方法属性
+
 ![Alt text](/python正则.jpg)
 
