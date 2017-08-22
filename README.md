@@ -34,6 +34,8 @@
 
 ## [mac终端下快速查找文件  find ~ -iname  "screen*"](http://blog.csdn.net/ul646691993/article/details/45769721)
 
+## [MAC压缩文件](http://www.jianshu.com/p/2b290ee95e79)
+
 
 ## 逆向编码使用的第三方工具
 #### Hopper Disassembler v3解析app中可执行文件成伪代码 </br> class-dump 查出app中的.h文件，和未被声明的方法属性
