@@ -36,6 +36,9 @@
 
 ## [MAC压缩文件](http://www.jianshu.com/p/2b290ee95e79)
 
+## [pod search无法搜索到类库的解决办法](http://www.jianshu.com/p/b5e5cd053464)
+
+## [给 Pod 添加资源文件](http://blog.xianqu.org/2015/08/pod-resources/)
 
 ## 逆向编码使用的第三方工具
 #### Hopper Disassembler v3解析app中可执行文件成伪代码 </br> class-dump 查出app中的.h文件，和未被声明的方法属性
