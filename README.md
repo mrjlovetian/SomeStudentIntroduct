@@ -40,6 +40,18 @@
 
 ## [给 Pod 添加资源文件](http://blog.xianqu.org/2015/08/pod-resources/)
 
+##[将项目中公共组件使用Cocoapods管理实战](https://juejin.im/entry/59a3c8e06fb9a0248070f1d7)
+
+## [iOS 核心动画的应用及内存泄漏](https://juejin.im/entry/59a3d4a2f265da247d728ef0)
+
+## [『Apple & GitHub』译文 & 源码](https://juejin.im/entry/59a38db5f265da247b4e8f2f)
+
+## [UIBezierPath 贝塞尔曲线](http://plainboiledwaterln.cn/AppleTranslation/UIBezierPathApple.html)
+
+## [tvOS视差按钮的ObjC实现](https://segmentfault.com/a/1190000004048940)
+
+## [在线工具](http://tool.lu/markdown/)
+
 ## 逆向编码使用的第三方工具
 #### Hopper Disassembler v3解析app中可执行文件成伪代码 </br> class-dump 查出app中的.h文件，和未被声明的方法属性
 
