@@ -1,0 +1,8 @@
+iOS砸壳反编译
+		需要的工具一台越狱的iPhone, class-dump(获得反编译需要的.h文件),Hopper Disassembler(逆向编译程序),等辅助插件（密码alpine）
+		step1，获得dumpdecrypted.dylib文件，并安装在越狱手机中的document文件中，开始砸壳 (DYLD_INSERT_LIBRARIES=dumpdecrypted.dylib 目标App)
+		step2,借助PP手机助手,导出砸壳后的文件，通过class-dump(可执行获取所有的.h文件信息)
+		step3,借助Hopper Disassembler可逆向编码我们需要的程序(辅助插件https://github.com/poboke/Class-Decompile.git)
+		
+		{http://www.jianshu.com/p/6a1cf4416375重点是去掉app中的64，
+		http://www.poboke.com/study/bulk-export-pseudo-code-in-hopper-disassembler.html重点是添加整个类的全编译插件和使用方法}
