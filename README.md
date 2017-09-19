@@ -52,6 +52,8 @@
 
 ## [在线工具](http://tool.lu/markdown/)
 
+## [在线修改GIF](http://www.soogif.com/editor)
+
 ## 逆向编码使用的第三方工具
 #### Hopper Disassembler v3解析app中可执行文件成伪代码 </br> class-dump 查出app中的.h文件，和未被声明的方法属性
 
