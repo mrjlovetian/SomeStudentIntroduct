@@ -40,7 +40,7 @@
 
 ## [给 Pod 添加资源文件](http://blog.xianqu.org/2015/08/pod-resources/)
 
-##[将项目中公共组件使用Cocoapods管理实战](https://juejin.im/entry/59a3c8e06fb9a0248070f1d7)
+## [将项目中公共组件使用Cocoapods管理实战](https://juejin.im/entry/59a3c8e06fb9a0248070f1d7)
 
 ## [iOS 核心动画的应用及内存泄漏](https://juejin.im/entry/59a3d4a2f265da247d728ef0)
 
@@ -53,6 +53,14 @@
 ## [在线工具](http://tool.lu/markdown/)
 
 ## [在线修改GIF](http://www.soogif.com/editor)
+
+## [设计欣赏](https://dribbble.com/shots)
+
+## [iOS 保持界面流畅的技巧](https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+
+## [优雅的用you-get观看pptv wwe摔跤视频](http://www.jianshu.com/p/7a0f066db1a2)
+
+## [YOU-GET中文说明](https://github.com/soimort/you-get/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E)
 
 ## 逆向编码使用的第三方工具
 #### Hopper Disassembler v3解析app中可执行文件成伪代码 </br> class-dump 查出app中的.h文件，和未被声明的方法属性
