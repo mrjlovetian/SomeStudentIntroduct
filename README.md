@@ -65,6 +65,8 @@
 ## 逆向编码使用的第三方工具
 #### Hopper Disassembler v3解析app中可执行文件成伪代码 </br> class-dump 查出app中的.h文件，和未被声明的方法属性
 
+## [CHFipsterRef学习资料](http://meilbn.com/2016/10/27/CFHipsterRef-Low-Level-Programming-on-iOS-OSX-Chapter2-Objective-C-Runtime/)
+
 ## 正则表达式规则
 ![Alt text](/python正则.jpg)
 
