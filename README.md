@@ -71,6 +71,8 @@
 
 ## [Xcode配置多个环境](http://www.jianshu.com/p/83b6e781eb51)
 
+## [自动化打包配置](https://www.jianshu.com/p/41ecb06ae95f)
+
 ## 正则表达式规则
 ![Alt text](/python正则.jpg)
 
