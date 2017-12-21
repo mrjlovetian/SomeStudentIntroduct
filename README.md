@@ -69,6 +69,8 @@
 
 ## [本地Charles调试](https://www.cnblogs.com/wonyun/p/5586746.html)
 
+## [Xcode配置多个环境](http://www.jianshu.com/p/83b6e781eb51)
+
 ## 正则表达式规则
 ![Alt text](/python正则.jpg)
 
