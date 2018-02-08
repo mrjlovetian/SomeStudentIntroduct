@@ -34,6 +34,8 @@
 
 ## [mac终端下快速查找文件  find ~ -iname  "screen*"](http://blog.csdn.net/ul646691993/article/details/45769721)
 
+## [常用终端命令](https://github.com/mrjlovetian/NormalTerminal)
+
 ## [MAC压缩文件](http://www.jianshu.com/p/2b290ee95e79)
 
 ## [pod search无法搜索到类库的解决办法](http://www.jianshu.com/p/b5e5cd053464)
@@ -63,7 +65,7 @@
 ## [YOU-GET中文说明](https://github.com/soimort/you-get/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E)
 
 ## 逆向编码使用的第三方工具
-#### Hopper Disassembler v3解析app中可执行文件成伪代码 </br> class-dump 查出app中的.h文件，和未被声明的方法属性
+## Hopper Disassembler v3解析app中可执行文件成伪代码 </br> class-dump 查出app中的.h文件，和未被声明的方法属性
 
 ## [CHFipsterRef学习资料](http://meilbn.com/2016/10/27/CFHipsterRef-Low-Level-Programming-on-iOS-OSX-Chapter2-Objective-C-Runtime/)
 
