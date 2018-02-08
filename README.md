@@ -75,7 +75,7 @@
 
 ## [自动化打包配置](https://www.jianshu.com/p/41ecb06ae95f)
 
-## [sourceTree版本回退](http://blog.csdn.net/mrzhangxl/article/details/78875246)
+## [sourceTree版本回退](https://github.com/mrjlovetian/sourceTreeBackVersion)
 
 ## 正则表达式规则
 ![Alt text](/python正则.jpg)
