@@ -18,6 +18,8 @@
 
 ## [ReactNative打离线包-ios篇](https://segmentfault.com/a/1190000004189538)
 
+## [ReactNative Android篇](https://www.jianshu.com/p/1380d4c8b596)
+
 ## [CocoaPods创建公有和私有Pod库方法总结](https://segmentfault.com/a/1190000007947371)
 
 ## [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/let)
