@@ -79,6 +79,8 @@
 
 ## [sourceTree版本回退](https://github.com/mrjlovetian/sourceTreeBackVersion)
 
+## cocoapods 错误[-Werror,-Wnon-modular-include-in-framework-module] 加参数：--use-libraries
+
 ## 正则表达式规则
 ![Alt text](/python正则.jpg)
 
