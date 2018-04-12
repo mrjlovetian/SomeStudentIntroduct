@@ -80,6 +80,7 @@
 ## [sourceTree版本回退](https://github.com/mrjlovetian/sourceTreeBackVersion)
 
 ## cocoapods 错误[-Werror,-Wnon-modular-include-in-framework-module] 加参数：--use-libraries
+## [CentOS第一次安装MySQL的完整步骤](https://www.cnblogs.com/silentdoer/articles/7258232.html)
 
 ## 正则表达式规则
 ![Alt text](/python正则.jpg)
