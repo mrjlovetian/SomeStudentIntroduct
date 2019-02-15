@@ -38,6 +38,8 @@
 
 ## [常用终端命令](https://github.com/mrjlovetian/NormalTerminal)
 
+## [数据库常见问题](https://github.com/mrjlovetian/MySqlQuestion)
+
 ## [MAC压缩文件](http://www.jianshu.com/p/2b290ee95e79)
 
 ## [pod search无法搜索到类库的解决办法](http://www.jianshu.com/p/b5e5cd053464)
